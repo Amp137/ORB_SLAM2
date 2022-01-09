@@ -31,6 +31,7 @@
 #include <message_filters/sync_policies/approximate_time.h>
 
 #include<opencv2/core/core.hpp>
+#include<unistd.h>
 
 #include"../../../include/System.h"
 
